@@ -1,0 +1,27 @@
+C:\Users\ECA-Automacao-ADM.IMT-28602\Documents\ETS2 - test\DataSender\DataSender\bin\Debug\DataSender.exe.config
+C:\Users\ECA-Automacao-ADM.IMT-28602\Documents\ETS2 - test\DataSender\DataSender\bin\Debug\DataSender.exe
+C:\Users\ECA-Automacao-ADM.IMT-28602\Documents\ETS2 - test\DataSender\DataSender\bin\Debug\DataSender.pdb
+C:\Users\ECA-Automacao-ADM.IMT-28602\Documents\ETS2 - test\DataSender\DataSender\obj\Debug\DataSender.csprojResolveAssemblyReference.cache
+C:\Users\ECA-Automacao-ADM.IMT-28602\Documents\ETS2 - test\DataSender\DataSender\obj\Debug\DataSender.Properties.Resources.resources
+C:\Users\ECA-Automacao-ADM.IMT-28602\Documents\ETS2 - test\DataSender\DataSender\obj\Debug\DataSender.csproj.GenerateResource.Cache
+C:\Users\ECA-Automacao-ADM.IMT-28602\Documents\ETS2 - test\DataSender\DataSender\obj\Debug\DataSender.exe
+C:\Users\ECA-Automacao-ADM.IMT-28602\Documents\ETS2 - test\DataSender\DataSender\obj\Debug\DataSender.pdb
+C:\Users\ECA-Automacao-ADM.IMT-28602\Documents\ETS2 - test\DataSender\DataSender\obj\Debug\DataSender.Form1.resources
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\bin\Debug\DataSender.exe.config
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\obj\Debug\DataSender.exe
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\obj\Debug\DataSender.pdb
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\obj\Debug\DataSender.csprojResolveAssemblyReference.cache
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\obj\Debug\DataSender.Form1.resources
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\obj\Debug\DataSender.Properties.Resources.resources
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\obj\Debug\DataSender.csproj.GenerateResource.Cache
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\bin\Debug\DataSender.exe
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\bin\Debug\DataSender.pdb
+C:\Users\Hiroshi F S\Desktop\DataSender\DataSender\bin\Debug\DataSender.exe.config
+C:\Users\Hiroshi F S\Desktop\DataSender\DataSender\obj\Debug\DataSender.exe
+C:\Users\Hiroshi F S\Desktop\DataSender\DataSender\obj\Debug\DataSender.pdb
+C:\Users\Hiroshi F S\Desktop\DataSender\DataSender\bin\Debug\DataSender.exe
+C:\Users\Hiroshi F S\Desktop\DataSender\DataSender\bin\Debug\DataSender.pdb
+C:\Users\Hiroshi F S\Desktop\DataSender\DataSender\obj\Debug\DataSender.csprojResolveAssemblyReference.cache
+C:\Users\Hiroshi F S\Desktop\DataSender\DataSender\obj\Debug\DataSender.Form1.resources
+C:\Users\Hiroshi F S\Desktop\DataSender\DataSender\obj\Debug\DataSender.Properties.Resources.resources
+C:\Users\Hiroshi F S\Desktop\DataSender\DataSender\obj\Debug\DataSender.csproj.GenerateResource.Cache

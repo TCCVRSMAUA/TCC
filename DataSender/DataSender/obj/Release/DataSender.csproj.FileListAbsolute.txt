@@ -1,0 +1,8 @@
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\bin\Release\DataSender.exe.config
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\bin\Release\DataSender.exe
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\bin\Release\DataSender.pdb
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\obj\Release\DataSender.Form1.resources
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\obj\Release\DataSender.Properties.Resources.resources
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\obj\Release\DataSender.csproj.GenerateResource.Cache
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\obj\Release\DataSender.exe
+C:\Users\Hiroshi F S\Google Drive\TCC\Softwares\ETS2 Telemetry\DataSenderRev1\DataSender\DataSender\obj\Release\DataSender.pdb

@@ -1,0 +1,5 @@
+C:\Users\Hiroshi F S\Desktop\aaqqq\ets2-client\C#\Ets2SdkClient\bin\Release\Ets2SdkClient.dll
+C:\Users\Hiroshi F S\Desktop\aaqqq\ets2-client\C#\Ets2SdkClient\bin\Release\Ets2SdkClient.pdb
+C:\Users\Hiroshi F S\Desktop\aaqqq\ets2-client\C#\Ets2SdkClient\obj\Release\Ets2SdkClient.csprojResolveAssemblyReference.cache
+C:\Users\Hiroshi F S\Desktop\aaqqq\ets2-client\C#\Ets2SdkClient\obj\Release\Ets2SdkClient.dll
+C:\Users\Hiroshi F S\Desktop\aaqqq\ets2-client\C#\Ets2SdkClient\obj\Release\Ets2SdkClient.pdb
